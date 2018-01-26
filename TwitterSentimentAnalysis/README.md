@@ -23,6 +23,6 @@ Usage:
 
 ``` python3 getColoredStats.py ```
 
-Output (15th Oct 2016) :
+Output (26th Jan 2018) :
 
-![alt tag](https://raw.githubusercontent.com/kalradivyanshu/TwitterSentiment/master/15102016.png)
+![alt tag](https://github.com/atmc9/ML-personal/blob/master/TwitterSentimentAnalysis/trending26012018.png)
